@@ -1,0 +1,22 @@
+{
+  "name": "hello-jasmine",
+  "version": "0.0.0",
+  "description": "Install =======",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/banquito/hello-jasmine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/banquito/hello-jasmine/issues"
+  },
+  "homepage": "https://github.com/banquito/hello-jasmine"
+}
